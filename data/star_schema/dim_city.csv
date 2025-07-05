@@ -1,66 +1,66 @@
 city_id,city,country_id,timezone
-1,Lisbon,4,Europe/Lisbon
-2,Petersburg,26,Europe/Moscow
-3,Hong Kong,5,Asia/Hong_Kong
-4,Boston,31,America/New_York
-5,Montreal,35,America/Toronto
-6,Mumbai,21,Asia/Kolkata
-7,Beijing,5,Asia/Shanghai
-8,Antsirabe,33,Indian/Antananarivo
-9,Fianarantsoa,33,Indian/Antananarivo
-10,Antananarivo,33,Indian/Antananarivo
-11,Toamasina,33,Indian/Antananarivo
-12,London,19,Europe/London
-13,Kabul,17,Asia/Kabul
-14,Madrid,8,Europe/Madrid
-15,Bangkok,1,Asia/Bangkok
-16,Toliara,33,Indian/Antananarivo
-17,Melbourne,37,Australia/Melbourne
-18,Abidjan,10,Africa/Abidjan
-19,Baghdad,25,Asia/Baghdad
-20,Addis Ababa,12,Africa/Addis_Ababa
-21,Algiers,23,Africa/Algiers
-22,Vienna,11,Europe/Vienna
-23,Amsterdam,7,Europe/Amsterdam
-24,Ankara,2,Europe/Istanbul
-25,Mexico City,27,America/Mexico_City
-26,Beirut,28,Asia/Beirut
-27,Brussels,15,Europe/Brussels
-28,Tehran,30,Asia/Tehran
-29,Paris,6,Europe/Paris
-30,San Francisco,31,America/Los_Angeles
-31,Helsinki,18,Europe/Helsinki
-32,Sydney,37,Australia/Sydney
-33,Prague,29,Europe/Prague
-34,Barcelona,8,Europe/Madrid
-35,Singapore,3,Asia/Singapore
-36,Miami,31,America/New_York
-37,Rio de Janeiro,38,America/Sao_Paulo
-38,Tokyo,39,Asia/Tokyo
-39,Stockholm,34,Europe/Stockholm
-40,Chicago,31,America/Chicago
-41,Sambava,33,Indian/Antananarivo
-42,Osaka,39,Asia/Tokyo
-43,Mahajanga,33,Indian/Antananarivo
-44,Washington,31,America/New_York
-45,Toronto,35,America/Toronto
-46,Riyadh,16,Asia/Riyadh
-47,Nairobi,32,Africa/Nairobi
-48,Shanghai,5,Asia/Shanghai
-49,Santiago,13,America/Santiago
-50,Casablanca,14,Africa/Casablanca
-51,Dubai,22,Asia/Dubai
-52,Rome,24,Europe/Rome
-53,Philadelphia,31,America/New_York
-54,New York,31,America/New_York
-55,Comores,36,Indian/Comoro
-56,Los Angeles,31,America/Los_Angeles
-57,Sao Paulo,38,America/Sao_Paulo
-58,Berlin,9,Europe/Berlin
-59,Houston,31,America/Chicago
-60,Marseille,6,Europe/Paris
-61,Atlanta,31,America/New_York
-62,Moscow,26,Europe/Moscow
-63,Dallas,31,America/Chicago
-64,Algerie,23,Africa/Algiers
-65,Seoul,20,Asia/Seoul
+1,Boston,4,America/New_York
+2,Tokyo,25,Asia/Tokyo
+3,Mahajanga,37,Indian/Antananarivo
+4,Moscow,19,Europe/Moscow
+5,Houston,4,America/Chicago
+6,Los Angeles,4,America/Los_Angeles
+7,Amsterdam,12,Europe/Amsterdam
+8,Berlin,26,Europe/Berlin
+9,Stockholm,7,Europe/Stockholm
+10,Chicago,4,America/Chicago
+11,Sao Paulo,38,America/Sao_Paulo
+12,Toamasina,37,Indian/Antananarivo
+13,Miami,4,America/New_York
+14,Fianarantsoa,37,Indian/Antananarivo
+15,Kabul,29,Asia/Kabul
+16,Sydney,2,Australia/Sydney
+17,Comores,13,Indian/Comoro
+18,Madrid,24,Europe/Madrid
+19,Atlanta,4,America/New_York
+20,Antananarivo,37,Indian/Antananarivo
+21,Rio de Janeiro,38,America/Sao_Paulo
+22,Prague,18,Europe/Prague
+23,Baghdad,16,Asia/Baghdad
+24,Beijing,17,Asia/Shanghai
+25,Helsinki,28,Europe/Helsinki
+26,New York,4,America/New_York
+27,Tehran,5,Asia/Tehran
+28,Sambava,37,Indian/Antananarivo
+29,Toronto,36,America/Toronto
+30,Osaka,25,Asia/Tokyo
+31,Antsirabe,37,Indian/Antananarivo
+32,London,21,Europe/London
+33,Algiers,1,Africa/Algiers
+34,Washington,4,America/New_York
+35,Paris,39,Europe/Paris
+36,Mexico City,6,America/Mexico_City
+37,Casablanca,23,Africa/Casablanca
+38,Toliara,37,Indian/Antananarivo
+39,Seoul,11,Asia/Seoul
+40,Brussels,30,Europe/Brussels
+41,Santiago,33,America/Santiago
+42,Melbourne,2,Australia/Melbourne
+43,Barcelona,24,Europe/Madrid
+44,Rome,31,Europe/Rome
+45,Vienna,9,Europe/Vienna
+46,Lisbon,34,Europe/Lisbon
+47,Abidjan,8,Africa/Abidjan
+48,Addis Ababa,10,Africa/Addis_Ababa
+49,Philadelphia,4,America/New_York
+50,Beirut,32,Asia/Beirut
+51,Bangkok,27,Asia/Bangkok
+52,Ankara,14,Europe/Istanbul
+53,Dallas,4,America/Chicago
+54,Riyadh,3,Asia/Riyadh
+55,Marseille,39,Europe/Paris
+56,Hong Kong,17,Asia/Hong_Kong
+57,Dubai,35,Asia/Dubai
+58,Petersburg,19,Europe/Moscow
+59,Singapore,22,Asia/Singapore
+60,Montreal,36,America/Toronto
+61,Shanghai,17,Asia/Shanghai
+62,San Francisco,4,America/Los_Angeles
+63,Algerie,1,Africa/Algiers
+64,Mumbai,15,Asia/Kolkata
+65,Nairobi,20,Africa/Nairobi
