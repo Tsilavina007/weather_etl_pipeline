@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Paris,FR,2025-06-27 00:00:43,21.22,20.43,21.81,21.59,84,1022,1012,10000,3.09,300,20,Clouds,peu nuageux,1750996139,1751054289,7200

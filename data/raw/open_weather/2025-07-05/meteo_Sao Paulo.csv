@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+São Paulo,BR,2025-07-05 12:45:32,11.95,11.95,11.95,11.52,89,1026,935,10000,2.73,85,98,Clouds,couvert,1751708947,1751747570,-10800

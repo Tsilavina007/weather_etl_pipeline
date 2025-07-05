@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Rome,US,2025-06-28 00:02:52,25.1,24.44,25.6,25.86,84,1019,991,9849,0.89,342,82,Rain,légère pluie,1751020250,1751072190,-14400

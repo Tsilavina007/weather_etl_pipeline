@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Boston,US,2025-06-30 00:03:09,22.71,20.12,24.28,23.05,77,1014,1009,10000,1.79,140,2,Clear,ciel dégagé,1751188214,1751243101,-14400

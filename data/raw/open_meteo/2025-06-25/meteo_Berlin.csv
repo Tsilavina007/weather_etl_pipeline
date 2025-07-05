@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-06-25T12:30,900,23.1,22.1,60,18.6,279,42.5,0.0,0.0,0.0,0.0,3,94,1010.2,1005.9,Berlin

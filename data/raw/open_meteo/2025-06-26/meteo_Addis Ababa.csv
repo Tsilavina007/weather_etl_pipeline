@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-06-26T03:00,900,16.1,16.9,86,3.1,306,7.6,0.0,0.0,0.0,0.0,2,64,1015.6,780.1,Addis Ababa

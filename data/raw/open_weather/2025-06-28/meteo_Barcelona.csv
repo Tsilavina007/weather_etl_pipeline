@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Barcelone,ES,2025-06-28 00:04:07,26.69,25.35,27.7,27.7,60,1022,1015,10000,1.03,260,0,Clear,ciel dégagé,1751084412,1751138931,7200

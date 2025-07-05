@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Séoul,KR,2025-06-27 00:03:42,22.76,21.78,22.76,23.7,100,1010,1000,9000,0.51,320,75,Mist,brume,1750968758,1751021841,32400

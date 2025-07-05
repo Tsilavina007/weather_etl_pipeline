@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Beyrouth,LB,2025-06-27 00:01:53,24.41,24.41,25.77,24.94,78,1007,1000,8000,1.03,0,20,Clouds,peu nuageux,1750991345,1751043172,10800

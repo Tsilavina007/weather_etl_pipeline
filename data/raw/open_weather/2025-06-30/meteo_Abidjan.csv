@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Abidjan,CI,2025-06-30 00:02:52,25.98,25.98,25.98,25.98,89,1013,1013,10000,4.12,250,75,Clouds,nuageux,1751263612,1751308342,0

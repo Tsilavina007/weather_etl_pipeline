@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Philadelphie,US,2025-06-28 00:03:00,18.19,17.33,18.94,18.41,90,1022,1017,3219,5.14,90,100,Drizzle,bruine légère,1751016838,1751070802,-14400

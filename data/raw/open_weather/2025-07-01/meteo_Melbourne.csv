@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Melbourne,US,2025-07-01 00:04:02,26.57,24.47,28.02,26.57,74,1018,1019,10000,3.6,140,75,Clouds,nuageux,1751279343,1751329378,-14400

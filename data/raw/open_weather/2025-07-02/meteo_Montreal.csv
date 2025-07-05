@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Montréal,CA,2025-07-02 00:01:03,23.97,23.01,25.48,24.46,78,1005,1002,10000,2.57,310,100,Clouds,couvert,1751360971,1751417202,-14400

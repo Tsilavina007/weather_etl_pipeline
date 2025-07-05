@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Kaboul,AF,2025-06-29 00:01:04,21.12,21.12,21.12,20.02,28,1002,794,10000,1.69,267,12,Clouds,peu nuageux,1751155945,1751207933,16200

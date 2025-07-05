@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-07-01T20:00,900,27.8,31.6,76,12.4,150,20.9,0.0,0.0,0.0,0.0,3,92,1017.3,1016.7,Miami

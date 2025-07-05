@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-06-29T01:00,900,33.2,28.1,14,22.8,84,31.7,0.0,0.0,0.0,0.0,0,0,1014.4,954.5,Algerie

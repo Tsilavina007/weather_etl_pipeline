@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Moscou,RU,2025-07-05 12:47:30,21.92,21.92,21.92,21.19,39,1013,994,10000,5.46,298,97,Clouds,couvert,1751676801,1751739271,10800

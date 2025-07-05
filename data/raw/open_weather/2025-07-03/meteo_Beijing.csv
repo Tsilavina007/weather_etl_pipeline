@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Pékin,CN,2025-07-03 20:05:35,25.94,25.94,25.94,27.02,93,1001,996,10000,1.25,49,23,Clouds,peu nuageux,1751575851,1751629581,28800

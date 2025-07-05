@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Melbourne,US,2025-06-29 00:00:39,23.81,22.24,25.55,24.57,89,1018,1017,3306,5.36,196,65,Rain,pluie modérée,1751106503,1751156573,-14400

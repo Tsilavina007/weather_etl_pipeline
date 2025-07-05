@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Boston,US,2025-07-05 12:47:29,15.46,15.46,15.46,15.05,76,1021,1016,10000,1.64,291,80,Clouds,nuageux,1751706808,1751761434,-14400

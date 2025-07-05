@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-07-02T03:00,900,23.4,23.1,59,13.0,96,22.7,0.0,0.0,0.0,0.0,1,35,1021.2,1020.3,Toliara

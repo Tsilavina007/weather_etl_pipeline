@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Comté de Dallas,US,2025-07-01 00:01:17,33.7,32.86,35.42,38.4,52,1012,994,10000,6.17,190,20,Clouds,peu nuageux,1751282542,1751333945,-18000

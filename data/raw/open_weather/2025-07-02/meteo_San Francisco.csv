@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+San Francisco,US,2025-07-02 00:01:33,16.64,14.62,20.25,16.34,76,1011,1007,10000,11.83,290,20,Clouds,peu nuageux,1751374290,1751427325,-25200

@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Helsinki,FI,2025-06-29 00:01:59,13.2,12.76,13.58,13.06,95,1001,998,10000,7.6,195,75,Drizzle,bruine légère,1751158713,1751226518,10800

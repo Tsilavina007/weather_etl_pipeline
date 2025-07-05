@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Algérie,DZ,2025-07-01 00:01:55,29.49,29.49,29.49,27.93,23,1011,950,10000,7.67,52,0,Clear,ciel dégagé,1751345705,1751395701,3600

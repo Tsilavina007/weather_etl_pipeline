@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Union des Comores,KM,2025-06-25 13:09:43,19,19,19,18.84,72,1017,892,10000,5.67,162,39,Clouds,partiellement nuageux,1750821754,1750862818,10800

@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Hong Kong,HK,2025-07-04 00:55:12,31.46,30.77,32.46,38.46,72,1007,1001,10000,1.73,80,62,Clouds,nuageux,1751579025,1751627483,28800

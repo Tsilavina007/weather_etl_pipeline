@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-06-27T03:00,900,32.2,29.6,16,6.9,279,16.9,0.0,0.0,0.0,0.0,0,0,997.8,993.8,Baghdad

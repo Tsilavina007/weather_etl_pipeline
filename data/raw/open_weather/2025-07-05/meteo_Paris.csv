@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Paris,FR,2025-07-05 12:45:48,23.28,23.28,23.28,22.66,38,1020,1010,10000,2.46,271,92,Clouds,couvert,1751687633,1751745368,7200

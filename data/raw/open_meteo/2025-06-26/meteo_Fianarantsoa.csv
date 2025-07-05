@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-06-26T03:00,900,10.9,10.7,99,3.3,103,10.4,0.0,0.0,0.0,0.0,45,77,1023.6,894.8,Fianarantsoa

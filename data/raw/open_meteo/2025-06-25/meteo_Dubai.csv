@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-06-25T14:30,900,31.6,39.2,81,17.7,299,23.0,0.0,0.0,0.0,0.0,0,0,993.9,993.2,Dubai

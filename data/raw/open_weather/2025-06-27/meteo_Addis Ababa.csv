@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Addis-Abeba,ET,2025-06-27 00:00:51,15.49,15.49,15.49,14.97,72,1015,770,10000,1.54,110,75,Clouds,nuageux,1750993715,1751039240,10800

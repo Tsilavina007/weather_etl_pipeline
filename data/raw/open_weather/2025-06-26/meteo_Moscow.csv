@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Moscou,RU,2025-06-26 00:03:40,13.6,13.24,13.7,12.92,73,997,978,10000,4.09,238,52,Clouds,nuageux,1750898782,1750961892,10800

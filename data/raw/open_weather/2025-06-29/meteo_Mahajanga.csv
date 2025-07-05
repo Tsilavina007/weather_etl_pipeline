@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Mahajanga,MG,2025-06-29 00:02:08,23.01,23.01,23.01,23.4,78,1017,1015,10000,1.03,0,40,Clouds,partiellement nuageux,1751167322,1751207646,10800

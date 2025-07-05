@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-06-25T03:15,900,15.6,16.1,88,4.1,285,5.0,0.0,0.0,0.0,0.0,1,46,1014.4,1003.5,Los Angeles

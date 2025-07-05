@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Madrid,ES,2025-06-28 00:04:16,27.75,24.1,29.08,26.83,28,1022,949,10000,2.06,340,0,Clear,ciel dégagé,1751086015,1751140142,7200

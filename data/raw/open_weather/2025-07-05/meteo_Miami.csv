@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Miami,US,2025-07-05 12:47:29,24.97,24.97,24.97,25.77,86,1014,1013,10000,4.08,235,98,Clouds,couvert,1751711665,1751760962,-14400

@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Fianarantsoa,MG,2025-07-01 00:02:11,11.16,11.16,11.16,10.73,92,1026,893,10000,2.46,99,77,Clouds,nuageux,1751340600,1751379644,10800

@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Madrid,ES,2025-07-03 20:05:23,29.6,28.45,31.82,28.6,33,1018,945,10000,3.09,70,40,Thunderstorm,orage,1751518156,1751572111,7200

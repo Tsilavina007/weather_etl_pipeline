@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-06-25T06:15,900,2.9,0.7,96,3.3,49,5.8,0.0,0.0,0.0,0.0,3,100,1019.8,954.5,Santiago

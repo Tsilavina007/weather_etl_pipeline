@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Osaka,JP,2025-07-05 12:45:32,32.19,32.19,32.19,36.61,57,1004,1000,10000,3.39,243,97,Clouds,couvert,1751658604,1751710477,32400

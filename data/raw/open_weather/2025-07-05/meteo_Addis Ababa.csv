@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Addis-Abeba,ET,2025-07-05 12:46:43,19.82,19.82,19.82,19.37,58,1015,772,8898,1.93,115,52,Rain,légère pluie,1751685027,1751730502,10800

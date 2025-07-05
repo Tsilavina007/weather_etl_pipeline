@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Prague,CZ,2025-06-30 00:03:43,21.4,19.6,22.51,21.37,68,1022,988,10000,3.6,320,0,Clear,ciel dégagé,1751252171,1751310930,7200

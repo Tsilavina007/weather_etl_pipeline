@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Washington,US,2025-06-29 00:01:17,26.11,25.51,26.43,26.11,30,1016,932,10000,5.7,348,21,Clouds,peu nuageux,1751112436,1751169792,-25200

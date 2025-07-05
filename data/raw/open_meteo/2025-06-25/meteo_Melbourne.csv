@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-06-25T20:30,900,6.8,4.2,85,8.9,238,27.4,0.0,0.0,0.0,0.0,2,60,1019.9,1017.5,Melbourne

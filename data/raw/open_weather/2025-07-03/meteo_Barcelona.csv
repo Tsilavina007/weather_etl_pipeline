@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Barcelone,ES,2025-07-03 20:05:24,25.89,23.58,27.53,26.26,66,1020,1013,10000,2.57,330,20,Rain,légère pluie,1751516556,1751570896,7200

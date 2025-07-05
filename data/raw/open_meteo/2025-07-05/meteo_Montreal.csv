@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-07-05T05:45,900,14.6,14.2,87,8.5,234,17.6,0.0,0.0,0.0,0.0,2,52,1019.9,1010.7,Montreal

@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-06-26T03:00,900,13.2,11.3,83,14.4,306,28.4,0.0,0.0,0.0,0.0,3,80,994.7,992.7,Petersburg

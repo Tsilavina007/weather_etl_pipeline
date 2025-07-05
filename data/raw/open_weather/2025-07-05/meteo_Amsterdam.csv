@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Amsterdam,NL,2025-07-05 12:47:33,20.87,20.87,20.87,20.87,71,1015,1015,10000,6.51,249,81,Clouds,nuageux,1751685946,1751745836,7200

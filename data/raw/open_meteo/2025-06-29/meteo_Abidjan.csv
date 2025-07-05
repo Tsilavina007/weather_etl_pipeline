@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-06-29T00:00,900,25.3,30.8,92,3.6,217,7.2,0.3,0.0,0.3,0.0,95,100,1014.4,1008.6,Abidjan

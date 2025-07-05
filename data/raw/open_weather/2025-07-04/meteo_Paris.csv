@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Paris,FR,2025-07-04 00:55:11,16.77,15.43,17.36,16.2,65,1028,1018,10000,2.57,350,0,Clear,ciel dégagé,1751601189,1751658993,7200

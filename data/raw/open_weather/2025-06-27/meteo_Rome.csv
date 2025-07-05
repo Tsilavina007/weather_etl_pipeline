@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Rome,US,2025-06-27 00:00:59,28.17,27.36,29.2,32.2,78,1016,989,10000,3.09,160,0,Clear,ciel dégagé,1750933830,1750985787,-14400

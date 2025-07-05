@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-06-28T09:00,900,27.9,31.7,61,4.0,350,25.6,0.0,0.0,0.0,0.0,1,25,1007.0,1002.4,Tokyo

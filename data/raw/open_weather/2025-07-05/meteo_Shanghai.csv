@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Shanghai,CN,2025-07-05 12:45:34,33.27,33.27,33.27,38.1,54,1003,1003,10000,4.52,158,0,Clear,ciel dégagé,1751662506,1751713316,28800

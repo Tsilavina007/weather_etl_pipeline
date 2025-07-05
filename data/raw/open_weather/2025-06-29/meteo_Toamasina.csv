@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Toamasina,MG,2025-06-29 00:02:27,20,20,20,20.67,100,1020,1019,10000,3.6,240,75,Clouds,nuageux,1751166860,1751206635,10800

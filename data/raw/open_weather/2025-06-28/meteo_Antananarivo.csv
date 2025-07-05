@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Antananarivo,MG,2025-06-28 00:03:41,12.98,12.98,12.98,12.94,100,1022,880,10000,2.06,130,75,Clouds,nuageux,1751080982,1751120577,10800

@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Rome,US,2025-06-26 00:03:16,30.49,30.49,30.87,34.48,63,1017,992,10000,4.98,130,91,Clouds,couvert,1750847412,1750899382,-14400

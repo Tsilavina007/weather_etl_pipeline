@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Londres,GB,2025-06-27 00:00:50,16.59,14.73,17.92,15.98,64,1019,1015,10000,6.17,260,86,Rain,légère pluie,1750995913,1751055704,3600

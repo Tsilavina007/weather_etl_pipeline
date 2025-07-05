@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+New York,US,2025-06-29 00:00:52,27.26,24.98,29.43,29.7,74,1014,1013,10000,4.63,160,0,Clear,ciel dégagé,1751102833,1751157073,-14400

@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Miami,US,2025-06-28 00:03:11,27.79,26.67,28.88,32.16,84,1019,1018,10000,0.89,93,56,Clouds,nuageux,1751020299,1751069755,-14400

@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Antsirabe,MG,2025-06-27 00:03:24,9.23,9.23,9.23,8.4,94,1022,853,10000,1.88,47,4,Clear,ciel dégagé,1750994804,1751034173,10800

@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-06-30T01:00,900,22.6,27.3,95,1.3,56,2.9,0.0,0.0,0.0,0.0,45,22,1017.0,1013.0,Algiers

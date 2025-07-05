@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Houston,US,2025-07-05 12:47:22,26.2,26.2,26.2,26.2,85,1014,1012,10000,1.81,175,53,Clouds,nuageux,1751714769,1751765140,-18000

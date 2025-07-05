@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+São Paulo,BR,2025-06-25 13:08:11,7.69,7.69,7.69,6.13,84,1024,931,10000,2.44,80,0,Clear,ciel dégagé,1750844914,1750883383,-10800

@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Chicago,US,2025-07-01 00:00:07,30.68,28.93,31.14,32.1,50,1010,988,10000,0.89,326,55,Clouds,nuageux,1751278731,1751333370,-18000

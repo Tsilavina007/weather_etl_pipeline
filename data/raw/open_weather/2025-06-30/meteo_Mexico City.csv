@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Mexico,MX,2025-06-30 00:02:44,16.73,15.96,16.73,16.81,90,1012,762,9656,6.17,100,100,Thunderstorm,orage et pluie fine,1751198475,1751246315,-21600

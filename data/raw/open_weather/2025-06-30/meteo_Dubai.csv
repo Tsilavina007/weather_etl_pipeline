@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Dubaï,AE,2025-06-30 00:03:35,31.96,31.14,31.96,38.96,70,992,992,10000,3.6,180,0,Clear,ciel dégagé,1751247096,1751296378,14400

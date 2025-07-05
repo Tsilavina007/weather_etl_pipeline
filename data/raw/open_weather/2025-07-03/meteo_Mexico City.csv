@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Mexico,MX,2025-07-03 20:05:34,24.97,24.96,25.06,24.38,33,1012,764,10000,5.14,40,75,Clouds,nuageux,1751544147,1751591929,-21600

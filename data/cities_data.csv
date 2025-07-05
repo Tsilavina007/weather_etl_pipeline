@@ -1,0 +1,66 @@
+city,latitude,longitude,country
+Tokyo,35.6895,139.69171,Japan
+Shanghai,31.23039,121.47370,China
+Sao Paulo,-23.53377,-46.62529,Brazil
+Mexico City,19.43261,-99.13321,Mexico
+Mumbai,19.07609,72.87743,India
+Beijing,39.90421,116.40740,China
+Osaka,34.69379,135.50107,Japan
+Rio de Janeiro,-22.90833,-43.19639,Brazil
+Paris,48.8566,2.3522,France
+London,51.5074,-0.1278,United Kingdom
+Bangkok,13.7563,100.5018,Thailand
+New York,40.7128,-74.0060,United States
+Seoul,37.5665,126.9780,South Korea
+Tehran,35.6892,51.3890,Iran
+Chicago,41.8781,-87.6298,United States
+Los Angeles,34.0522,-118.2437,United States
+Hong Kong,22.3193,114.1694,China
+Baghdad,33.3128,44.3615,Iraq
+Riyadh,24.7136,46.6753,Saudi Arabia
+Santiago,-33.4489,-70.6693,Chile
+Singapore,1.3521,103.8198,Singapore
+Ankara,39.9334,32.8597,Turkey
+Berlin,52.5200,13.4050,Germany
+Toronto,43.6532,-79.3832,Canada
+Barcelona,41.3851,2.1734,Spain
+Madrid,40.4168,-3.7038,Spain
+Melbourne,-37.8136,144.9631,Australia
+Sydney,-33.8688,151.2093,Australia
+Dubai,25.2048,55.2708,United Arab Emirates
+Casablanca,33.5731,-7.5898,Morocco
+Montreal,45.5017,-73.5673,Canada
+Addis Ababa,8.9806,38.7578,Ethiopia
+Nairobi,-1.2921,36.8219,Kenya
+Abidjan,5.3453,-4.0244,Ivory Coast
+Rome,41.9028,12.4964,Italy
+Kabul,34.5553,69.2075,Afghanistan
+Vienna,48.2082,16.3738,Austria
+Algiers,36.7538,3.0588,Algeria
+San Francisco,37.7749,-122.4194,United States
+Washington,38.9072,-77.0369,United States
+Philadelphia,39.9526,-75.1652,United States
+Dallas,32.7767,-96.7970,United States
+Houston,29.7604,-95.3698,United States
+Atlanta,33.7490,-84.3880,United States
+Boston,42.3601,-71.0589,United States
+Miami,25.7617,-80.1918,United States
+Moscow,55.7558,37.6173,Russia
+Petersburg,59.9343,30.3351,Russia
+Beirut,33.8938,35.5018,Lebanon
+Lisbon,38.7223,-9.1393,Portugal
+Prague,50.0755,14.4378,Czech Republic
+Brussels,50.8503,4.3517,Belgium
+Amsterdam,52.3676,4.9041,Netherlands
+Stockholm,59.3293,18.0686,Sweden
+Helsinki,60.1699,24.9384,Finland
+Marseille,43.2965,5.3698,France
+Antananarivo,-18.8792,47.5079,Madagascar
+Mahajanga,-15.7167,46.3167,Madagascar
+Toamasina,-18.1492,49.4023,Madagascar
+Antsirabe,-19.8653,47.0330,Madagascar
+Fianarantsoa,-21.4528,47.0841,Madagascar
+Toliara,-23.3565,43.6667,Madagascar
+Sambava,-14.2667,50.1667,Madagascar
+Algerie,28.0339,1.6596,Algeria
+Comores,-11.8750,43.8728,Comoros

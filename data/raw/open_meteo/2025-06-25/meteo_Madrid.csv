@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-06-25T12:30,900,24.0,24.6,48,12.0,231,33.5,0.0,0.0,0.0,0.0,1,43,1016.7,942.3,Madrid

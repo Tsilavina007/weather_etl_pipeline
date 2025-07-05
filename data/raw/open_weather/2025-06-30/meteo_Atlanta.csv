@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Atlanta,US,2025-06-30 00:03:09,26.65,25.37,27.65,26.65,72,1016,983,10000,1.79,302,74,Clouds,nuageux,1751192989,1751244725,-14400

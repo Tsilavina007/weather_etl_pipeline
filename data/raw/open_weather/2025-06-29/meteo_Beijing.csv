@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Pékin,CN,2025-06-29 00:00:20,24.94,24.94,24.94,25.4,73,1002,997,10000,1.26,78,57,Clouds,nuageux,1751143707,1751197617,28800

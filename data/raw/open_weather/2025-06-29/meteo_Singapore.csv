@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Singapour,SG,2025-06-29 00:00:30,25.32,24.92,26.07,26.02,81,1009,1009,10000,1.03,0,75,Clouds,nuageux,1751151724,1751195624,28800

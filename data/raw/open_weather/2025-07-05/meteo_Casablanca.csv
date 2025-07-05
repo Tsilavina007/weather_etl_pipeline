@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Casablanca,MA,2025-07-05 12:46:43,25.34,25.34,25.34,25.6,64,1019,1010,10000,3.22,334,33,Clouds,partiellement nuageux,1751693138,1751744649,3600

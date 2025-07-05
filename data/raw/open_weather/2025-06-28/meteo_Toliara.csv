@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Tuléar,MG,2025-06-28 00:03:49,20.14,20.14,20.14,20.59,91,1020,1019,10000,2.89,97,3,Clear,ciel dégagé,1751082437,1751120980,10800

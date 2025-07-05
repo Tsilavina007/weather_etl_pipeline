@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Riyad,SA,2025-07-05 12:46:11,40.37,40.37,40.37,37.01,8,1004,934,10000,3.24,335,36,Clouds,partiellement nuageux,1751681336,1751730365,10800

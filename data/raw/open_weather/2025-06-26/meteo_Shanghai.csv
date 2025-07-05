@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Shanghai,CN,2025-06-26 00:00:21,25.92,25.92,25.92,26.73,83,1009,1008,6000,3,160,20,Clouds,peu nuageux,1750884705,1750935719,28800

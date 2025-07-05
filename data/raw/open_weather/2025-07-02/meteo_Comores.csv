@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Union des Comores,KM,2025-07-02 00:01:44,17.37,17.37,17.37,17.17,77,1018,892,10000,5.06,157,99,Rain,légère pluie,1751426613,1751467719,10800

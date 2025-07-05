@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Petersburg,US,2025-07-05 12:47:30,18.78,18.78,18.78,19.17,94,1021,1015,10000,0.93,33,4,Clear,ciel dégagé,1751709297,1751761989,-14400

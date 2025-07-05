@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Rio de Janeiro,BR,2025-06-29 00:00:20,22.87,22.76,24.12,23.33,81,1019,1020,10000,4.12,110,0,Clear,ciel dégagé,1751103233,1751141888,-10800

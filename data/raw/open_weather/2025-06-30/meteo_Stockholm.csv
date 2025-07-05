@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Stockholm,SE,2025-06-30 00:03:50,14.96,12.92,15.06,14.18,64,1007,1004,10000,5.66,310,26,Clouds,partiellement nuageux,1751247364,1751313988,7200

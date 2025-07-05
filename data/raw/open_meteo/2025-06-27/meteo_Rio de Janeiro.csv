@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-06-26T21:00,900,23.0,25.3,68,1.0,135,2.5,0.0,0.0,0.0,0.0,0,0,1017.3,1016.8,Rio de Janeiro

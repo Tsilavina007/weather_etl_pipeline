@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Berlin,DE,2025-07-02 00:00:07,21.36,18.34,22.82,21.04,57,1017,1012,10000,2.68,108,0,Clear,ciel dégagé,1751424502,1751484728,7200

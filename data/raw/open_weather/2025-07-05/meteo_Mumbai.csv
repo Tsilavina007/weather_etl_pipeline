@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Bombay,IN,2025-07-05 12:45:32,27.29,27.29,27.29,30.97,85,1004,1003,10000,8.72,238,100,Clouds,couvert,1751675750,1751723408,19800

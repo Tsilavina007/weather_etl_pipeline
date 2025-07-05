@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-07-05T04:45,900,23.6,27.1,93,11.0,128,27.7,0.0,0.0,0.0,0.0,2,69,1013.9,998.1,Dallas

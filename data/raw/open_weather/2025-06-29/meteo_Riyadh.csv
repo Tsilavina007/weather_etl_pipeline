@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Riyad,SA,2025-06-29 00:03:02,32.55,32.55,32.55,30.22,11,999,930,10000,3.27,293,100,Clouds,couvert,1751162812,1751211961,10800

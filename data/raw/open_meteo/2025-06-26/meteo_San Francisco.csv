@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-06-25T17:00,900,16.9,15.0,78,22.7,274,34.9,0.0,0.0,0.0,0.0,0,10,1016.1,1013.9,San Francisco

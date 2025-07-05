@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Hong Kong,HK,2025-06-27 00:00:16,28.22,26.35,28.51,34.07,88,1008,1003,10000,1.79,60,74,Rain,légère pluie,1750974095,1751022658,28800

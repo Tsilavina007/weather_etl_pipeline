@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Lisbonne,PT,2025-06-30 00:03:43,27.15,25.32,29.49,27.19,44,1016,1008,10000,2.06,30,0,Clear,ciel dégagé,1751260495,1751313914,3600

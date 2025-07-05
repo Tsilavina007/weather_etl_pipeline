@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Sambava,MG,2025-06-27 00:00:16,20.52,20.52,20.52,20.85,85,1016,1015,10000,2.81,207,5,Clear,ciel dégagé,1750993422,1751034051,10800

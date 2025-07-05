@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Rome,US,2025-07-01 00:04:05,27.36,27.36,28.93,30.44,79,1014,988,10000,2.71,249,52,Clouds,nuageux,1751279517,1751331392,-14400

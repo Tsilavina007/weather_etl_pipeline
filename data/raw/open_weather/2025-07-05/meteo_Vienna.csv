@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Vienne,AT,2025-07-05 12:47:09,26.6,26.6,26.6,26.6,38,1019,992,10000,2.8,128,7,Clear,ciel dégagé,1751684442,1751741828,7200

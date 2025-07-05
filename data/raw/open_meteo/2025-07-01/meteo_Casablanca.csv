@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-07-01T01:00,900,23.5,27.0,85,5.7,252,20.2,0.0,0.0,0.0,0.0,0,0,1012.1,1007.0,Casablanca

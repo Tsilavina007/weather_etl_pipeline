@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Montréal,CA,2025-06-25 13:09:21,21.67,21.67,21.67,22.01,81,1017,1014,10000,3.84,20,45,Clouds,partiellement nuageux,1750842405,1750898831,-14400

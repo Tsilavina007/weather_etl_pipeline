@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Préfecture de Tokyo,JP,2025-06-29 00:00:09,29.19,27.36,30.36,31.36,60,1009,1008,10000,4.63,160,20,Clouds,peu nuageux,1751138877,1751191264,32400

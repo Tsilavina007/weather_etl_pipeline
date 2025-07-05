@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Vienne,AT,2025-06-28 00:02:52,19.51,18.23,20.16,19.5,76,1023,997,10000,5.14,340,75,Clouds,nuageux,1751079382,1751137137,7200

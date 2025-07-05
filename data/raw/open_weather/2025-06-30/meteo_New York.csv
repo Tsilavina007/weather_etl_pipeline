@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+New York,US,2025-06-30 00:02:20,30.93,27.77,32.3,32.5,50,1013,1011,10000,2.57,100,20,Clouds,peu nuageux,1751189259,1751243471,-14400

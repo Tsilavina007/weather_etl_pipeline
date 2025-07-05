@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Antananarivo,MG,2025-07-01 00:01:54,13.98,13.98,13.98,13.89,94,1024,882,10000,2.57,150,40,Clouds,partiellement nuageux,1751340199,1751379827,10800

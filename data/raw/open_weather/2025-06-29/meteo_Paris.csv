@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Paris,FR,2025-06-29 00:00:30,22.02,20.43,22.81,22.37,80,1026,1016,10000,4.12,10,0,Clear,ciel dégagé,1751168999,1751227076,7200

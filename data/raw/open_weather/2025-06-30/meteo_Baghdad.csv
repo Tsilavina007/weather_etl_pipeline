@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Bagdad,IQ,2025-06-30 00:03:25,34.95,34.95,34.95,32.6,16,993,989,10000,3.09,20,0,Clear,ciel dégagé,1751248559,1751300150,10800

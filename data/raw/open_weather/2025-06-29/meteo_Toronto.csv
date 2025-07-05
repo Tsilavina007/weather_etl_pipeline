@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Toronto,CA,2025-06-29 00:03:06,22.05,21.16,22.95,21.85,59,1015,999,10000,11.18,290,40,Clouds,partiellement nuageux,1751103500,1751159004,-14400

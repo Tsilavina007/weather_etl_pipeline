@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Osaka,JP,2025-06-26 00:04:08,27.39,25.9,28.07,29.95,74,1009,1005,8000,5.14,180,75,Rain,petites averses,1750880787,1750932896,32400

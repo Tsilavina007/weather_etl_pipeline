@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-07-01T03:00,900,16.1,15.9,70,2.9,97,5.4,0.0,0.0,0.0,0.0,0,0,1013.1,913.7,Ankara

@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Union des Comores,KM,2025-06-26 00:03:59,17.01,17.01,17.01,16.59,70,1016,891,10000,4.06,152,3,Clear,ciel dégagé,1750908165,1750949231,10800

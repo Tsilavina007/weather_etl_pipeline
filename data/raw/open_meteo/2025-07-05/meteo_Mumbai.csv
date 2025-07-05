@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-07-05T15:15,900,27.5,31.0,87,23.3,235,33.8,0.7,0.0,0.7,0.0,95,100,1003.5,1002.6,Mumbai

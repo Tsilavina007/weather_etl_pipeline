@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Helsinki,FI,2025-06-25 13:09:42,14.91,14.91,14.91,14.57,81,990,988,10000,6.11,301,89,Clouds,couvert,1750812936,1750881003,10800

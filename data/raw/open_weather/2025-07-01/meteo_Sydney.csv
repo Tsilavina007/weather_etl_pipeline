@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Sydney,AU,2025-07-01 00:00:45,11.36,10.76,12.42,10.88,89,1011,1007,3574,1.79,258,100,Rain,légère pluie,1751317254,1751353003,36000

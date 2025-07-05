@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Houston,US,2025-07-03 20:05:30,24.02,24.01,24.99,24.93,94,1015,1012,10000,4.12,350,20,Rain,pluie modérée,1751541918,1751592351,-18000

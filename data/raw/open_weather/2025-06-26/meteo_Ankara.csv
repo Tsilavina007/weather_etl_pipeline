@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Ankara,TR,2025-06-26 00:02:40,17.51,17.51,17.51,16.33,39,1015,895,10000,2.65,51,0,Clear,ciel dégagé,1750904492,1750958469,10800

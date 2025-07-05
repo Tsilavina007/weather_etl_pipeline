@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Berlin,DE,2025-06-26 00:02:40,14.83,13.88,16.85,14.72,90,1014,1009,10000,0,0,0,Clear,ciel dégagé,1750905884,1750966411,7200

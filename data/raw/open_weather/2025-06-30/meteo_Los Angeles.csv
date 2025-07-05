@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Los Angeles,US,2025-06-30 00:02:12,26.26,20.53,31.84,26.26,52,1012,993,10000,6.69,240,0,Clear,ciel dégagé,1751201068,1751252899,-25200

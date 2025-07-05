@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Séoul,KR,2025-06-28 00:02:27,24.76,24.76,24.78,25.9,100,1008,999,3500,2.06,160,100,Rain,légère pluie,1751055179,1751108242,32400

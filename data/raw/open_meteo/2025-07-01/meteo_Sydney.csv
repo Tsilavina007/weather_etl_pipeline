@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-07-01T10:00,900,10.9,6.8,80,23.7,226,52.6,0.3,0.2,0.0,0.0,61,100,1011.0,1000.6,Sydney

@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-06-28T01:00,900,18.7,18.9,84,12.5,237,28.8,0.0,0.0,0.0,0.0,2,65,1022.5,1020.6,London

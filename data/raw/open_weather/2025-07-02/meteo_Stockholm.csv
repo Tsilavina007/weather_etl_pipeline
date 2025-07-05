@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Stockholm,SE,2025-07-02 00:02:03,18.03,16.25,18.43,17.66,68,1014,1010,10000,1.54,240,20,Clouds,peu nuageux,1751420285,1751486711,7200

@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-06-27T18:00,900,17.8,17.0,75,12.2,19,31.3,0.8,0.0,0.8,0.0,95,100,1016.6,787.3,Mexico City

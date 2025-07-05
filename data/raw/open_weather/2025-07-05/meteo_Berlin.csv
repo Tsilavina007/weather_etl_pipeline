@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Berlin,DE,2025-07-05 12:46:21,25.72,25.72,25.72,25.16,31,1015,1010,10000,4.29,244,100,Clouds,couvert,1751683849,1751743843,7200

@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Bruxelles,BE,2025-06-28 00:03:17,19.21,18.47,20.08,19.43,86,1024,1017,10000,4.12,240,0,Clear,ciel dégagé,1751081484,1751140808,7200

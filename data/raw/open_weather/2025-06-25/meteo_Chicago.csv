@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Chicago,US,2025-06-25 09:38:40,22.07,20.58,23.14,22.76,93,1020,998,6437,0.45,0,100,Rain,pluie modérée,1750846609,1750901378,-18000

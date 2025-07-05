@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Sydney,AU,2025-06-28 00:02:05,12.48,10.5,13.46,11.66,72,1029,1024,10000,3.6,290,40,Clouds,partiellement nuageux,1751058053,1751093737,36000

@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Petersburg,US,2025-06-28 00:03:16,25.79,25.17,26.37,26.83,92,1018,1013,10000,1.79,90,48,Clouds,partiellement nuageux,1751017882,1751070832,-14400

@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Alger,DZ,2025-06-28 00:02:52,23.9,23.9,23.9,24.64,88,1022,1016,10000,2.57,60,20,Clouds,peu nuageux,1751085076,1751137843,3600

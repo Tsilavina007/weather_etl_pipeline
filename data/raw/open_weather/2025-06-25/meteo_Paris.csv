@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Paris,FR,2025-06-25 13:08:12,25.96,25.96,25.96,25.96,55,1013,1004,10000,1.2,196,100,Rain,légère pluie,1750823289,1750881492,7200

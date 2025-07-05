@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Marseille,FR,2025-06-30 00:03:59,23.62,23.62,24.75,23.5,56,1017,999,10000,1.39,326,0,Clear,ciel dégagé,1751256051,1751311333,7200

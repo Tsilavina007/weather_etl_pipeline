@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Londres,GB,2025-06-28 00:02:19,18.79,17.81,19.32,18.87,82,1022,1018,10000,4.63,220,6,Clear,ciel dégagé,1751082344,1751142096,3600

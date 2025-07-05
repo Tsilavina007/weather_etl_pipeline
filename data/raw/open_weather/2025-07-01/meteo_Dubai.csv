@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Dubaï,AE,2025-07-01 00:00:45,32.96,30.14,32.96,39.96,66,994,993,8000,2.57,180,45,Clouds,partiellement nuageux,1751333516,1751382781,14400

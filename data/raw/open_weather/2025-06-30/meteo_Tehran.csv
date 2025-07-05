@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Téhéran,IR,2025-06-30 00:02:12,28.73,28.73,28.99,27.22,18,1001,854,10000,2.06,80,0,Clear,ciel dégagé,1751246490,1751298848,12600

@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Toronto,CA,2025-06-26 00:02:40,26.93,24.4,28.2,28.21,63,1017,1002,10000,4.92,10,0,Clear,ciel dégagé,1750844229,1750899805,-14400

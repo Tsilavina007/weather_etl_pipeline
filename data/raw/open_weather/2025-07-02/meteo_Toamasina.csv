@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Toamasina,MG,2025-07-02 00:01:53,22,22,22,22.42,83,1022,1021,10000,5.14,170,75,Rain,légère pluie,1751426075,1751465886,10800

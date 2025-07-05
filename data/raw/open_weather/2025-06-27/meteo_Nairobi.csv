@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Nairobi,KE,2025-06-27 00:04:08,15.93,15.93,15.93,15.88,88,1017,836,10000,0,0,75,Clouds,nuageux,1750995257,1751038625,10800

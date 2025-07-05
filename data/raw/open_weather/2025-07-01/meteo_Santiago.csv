@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Santiago du Chili,CL,2025-07-01 00:00:24,11.15,9.93,11.76,9.89,60,1018,932,8000,2.06,140,100,Clouds,couvert,1751284039,1751319901,-14400

@@ -1,0 +1,2 @@
+ville,pays,date_extraction,temperature,temperature_min,temperature_max,ressentie,humidite,pression_mer,pression_sol,visibilite,vent_vitesse,vent_direction,nuages,condition,description,heure_lever_soleil,heure_coucher_soleil,timezone
+Bangkok,TH,2025-07-03 20:05:42,27.81,27.17,28.94,30.3,70,1008,1007,10000,1.95,254,100,Clouds,couvert,1751583281,1751629775,25200

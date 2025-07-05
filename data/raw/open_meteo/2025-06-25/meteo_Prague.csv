@@ -1,0 +1,2 @@
+time,interval,temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,wind_direction_10m,wind_gusts_10m,precipitation,rain,showers,snowfall,weather_code,cloud_cover,pressure_msl,surface_pressure,city
+2025-06-25T12:30,900,28.1,26.3,37,16.9,259,35.3,0.0,0.0,0.0,0.0,3,96,1012.3,984.0,Prague
